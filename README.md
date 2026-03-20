@@ -31,9 +31,9 @@ It also classifies whether a property is a **good investment** based on price pe
 
 ```
 indian-house-price-prediction/
-│── indian_house_prices.py
 │── Indian_house_prices.ipynb
 │── india_housing_prices.csv
+│── requirments.txt
 │── README.md
 ```
 
